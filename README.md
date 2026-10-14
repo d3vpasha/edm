@@ -3,7 +3,7 @@
 Site vitrine de SARL EDM, entreprise de plomberie, chauffage, sanitaire et rénovation à Chennevières-sur-Marne (Val-de-Marne), créée en 1997.
 HTML, CSS et JS natifs : aucune étape de build, aucune dépendance.
 
-Production : https://edm.vercel.app
+Production : https://edm-plomberie.vercel.app
 
 ## Arborescence
 

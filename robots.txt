@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://edm.vercel.app/sitemap.xml
+Sitemap: https://edm-plomberie.vercel.app/sitemap.xml
